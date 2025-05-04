@@ -1,13 +1,11 @@
-Hi there, I'm [Dawit-Mamo]! 👋
+Hi there, I'm Dawit-Mamo 👋
 
-![Banner Image]([pngtree-isometric-front-end-development-landing-page-concept-banner-image_1197089](https://github.com/user-attachments/assets/20a3af9e-8fd3-4a8b-a3c0-7a30febc6552)
-)
 
 ## About Me 🚀
 
 I am a learner of the ALX **[Front End Developer ]** I'm a passionate **[junior Developer]** with experience in **[HTML,CSS and JAVASCRIPT]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[at Alx africa Front end web development]**
+- 🌱 Currently learning: **[at Alx africa]**
 - 🔭 Working on: **[School projects]**
 - 🌍 Languages: **[Html,css,Javascript, English and Amharic]**
 - 📫 How to reach me: **[Dawitmamoyou@gmail.com]**
