@@ -1,17 +1,17 @@
 Hi there, I'm [Dawit-Mamo]! 👋
 
-![Banner Image](![pngtree-isometric-front-end-development-landing-page-concept-banner-image_1197089](https://github.com/user-attachments/assets/20a3af9e-8fd3-4a8b-a3c0-7a30febc6552)
+![Banner Image]([pngtree-isometric-front-end-development-landing-page-concept-banner-image_1197089](https://github.com/user-attachments/assets/20a3af9e-8fd3-4a8b-a3c0-7a30febc6552)
 )
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I am a learner of the ALX **[Front End Developer ]** I'm a passionate **[junior Developer]** with experience in **[HTML,CSS and JAVASCRIPT]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: **[at Alx africa Front end web development]**
+- 🔭 Working on: **[School projects]**
+- 🌍 Languages: **[Html,css,Javascript, English and Amharic]**
+- 📫 How to reach me: **[Dawitmamoyou@gmail.com]**
+  
 
 ## My Skills 🧠
 
