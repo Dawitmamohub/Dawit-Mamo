@@ -1,6 +1,7 @@
 Hi there, I'm [Dawit-Mamo]! 👋
 
-![Banner Image](https://www.google.com/search?sca_esv=3f991894fcbd4882&sxsrf=AHTn8zqPgW-Irn970JE5sEdXZvZ2N35tKw:1746344431443&q=banner+image+for+front+end+developer&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBpcx8kZB4NRoUjdgt8WwoMt2eLfGlVE3GaT9s2o0rEuuXaa3Xp90ImSjm6VOFeSjw-sbWSvWYDydvJUeUSyzm0axYbYGApOqlTOFGgat1XSJ6JeVPpg9kqlnqjiDoDF0TJ1zy1A6umriROa0IRSD5mIDuYbkEGzAmYxWWXdHm2g1y2NIyA&sa=X&ved=2ahUKEwjxoPf7p4mNAxXe3AIHHY7DIFQQtKgLegQIEBAB&biw=1280&bih=593&dpr=1.5#vhid=4SO-gldm9vr_PM&vssid=mosaic)
+![Banner Image](![pngtree-isometric-front-end-development-landing-page-concept-banner-image_1197089](https://github.com/user-attachments/assets/20a3af9e-8fd3-4a8b-a3c0-7a30febc6552)
+)
 
 ## About Me 🚀
 
